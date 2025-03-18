@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![01](https://user-images.githubusercontent.com/105918994/209529985-3edb9d3a-da5a-4415-9e51-dc5b6ea3447f.png)
+![01](https://github.com/TheMelodyOfCode/TheMelodyOfCode/blob/main/GitHubProfilePic2.png)
 
 <!--
 **TheMelodyOfCode/TheMelodyOfCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
