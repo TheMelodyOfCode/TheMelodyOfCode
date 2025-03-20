@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ✨
 
 ![01](https://github.com/TheMelodyOfCode/TheMelodyOfCode/blob/main/GitHubProfilePic2.png)
 
