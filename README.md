@@ -1,11 +1,5 @@
 ### Hi there 👋 ✨
 
-![Developer -Cookie - 2](https://github.com/user-attachments/assets/9f89f70f-c77c-403d-87a7-2c49fb5fd69d)
-
-## 👋 About Me
-
-**"The cookie will crumble the way it's supposed to crumble."**
-
 I'm an IT support specialist and AI tech explorer who believes technology should feel intuitive, not overwhelming. Whether it’s troubleshooting a voice recognition bug, guiding users through remote desktop setups, or experimenting with smart chatbots—I help people stay calm while their systems stay online.
 
 With over a decade of support experience across Germany, Scotland, and England, I’ve worked in both frontline and backoffice roles for companies like Sky UK, Medtronic, Nuance, and Vodafone. From medical devices to telecom infrastructure, I bring structured problem-solving and people-focused communication.
@@ -13,7 +7,6 @@ With over a decade of support experience across Germany, Scotland, and England, 
 My background covers operating system support (Windows/macOS/Linux), remote tools, mobile troubleshooting, and specialty software like Dragon NaturallySpeaking, Omnipage, and Power PDF.
 
 I’m currently diving deeper into AI workflows—customizing ChatGPT, creating website chatbot agents, and learning prompt engineering. I'm also exploring Python and neural networks to evolve with the tech. You can follow my journey here:  
-📂 [github.com/TheMelodyOfCode](https://github.com/TheMelodyOfCode)
 
 ---
 
@@ -31,4 +24,10 @@ I’m currently diving deeper into AI workflows—customizing ChatGPT, creating 
 
 ---
 
-🚀 Thanks for visiting! Let's make things smarter—one line of code and one conversation at a time.
+🚀 Thanks for visiting!
+
+![Developer -Cookie - 2](https://github.com/user-attachments/assets/9f89f70f-c77c-403d-87a7-2c49fb5fd69d)
+
+
+
+
