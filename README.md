@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 ✨
 
-![01](https://user-images.githubusercontent.com/105918994/209529985-3edb9d3a-da5a-4415-9e51-dc5b6ea3447f.png)
+![Developer -Cookie - 2](https://github.com/user-attachments/assets/9f89f70f-c77c-403d-87a7-2c49fb5fd69d)
 
 ## 👋 About Me
 
