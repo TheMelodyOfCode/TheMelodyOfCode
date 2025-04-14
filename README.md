@@ -4,29 +4,30 @@
 
 ### About Me
 
-I'm someone who believes tech should make life simpler, not more stressful. Whether it's taming a misbehaving Windows update, setting up remote desktop access for your grandma’s printer, or figuring out why your chatbot says weird things—I’m here to help it all crumble the right way.
+I believe tech should simplify life—not add more stress. Whether it’s calming down a rogue Windows update, connecting grandma’s printer via remote desktop, or figuring out why your chatbot insists on speaking in riddles—I’m here to help things crumble the right way.
 
-I’ve worked across three countries, supporting thousands of users with software, devices, and infrastructure. My roles at Medtronic, Sky UK, Nuance (via Sykes) and Vodafone shaped my approach: keep it human, stay calm, and talk tech in a way that makes sense.
+Over the past decade, I’ve supported thousands of users across Germany, Scotland, and England. From high-stakes medical devices at Medtronic, to internal IT support at Sky UK, to helping users navigate speech and PDF software at Nuance—I’ve learned to stay calm, speak human, and solve problems efficiently.
 
-These days, I’m learning how to train AI systems instead of just users—working with ChatGPT customization, chatbot creation, and prompt design. It’s new tech, but I’m diving in with curiosity and code, documenting my progress on GitHub.
+Today, I’m expanding into the world of AI systems—exploring ChatGPT customization, building smart chatbots, and learning the art of prompt engineering. I’m documenting the journey and sharing what I learn on GitHub.
 
-Backed by certifications from Cisco and Microsoft, and fluent in the tools of the modern stack—from React to Firebase—I support people, not just problems.
+What drives me isn’t just fixing bugs or writing clean code—it’s empowering people to trust technology again.
+
+---
+
+### 🔧 Tech Snapshot
+
+- **Support & Systems:** 1st-Level Support (OS/software/hardware/network), multilingual IT helpdesk  
+- **Tools:** Windows, macOS, Linux, TeamViewer, VPN, Powershell  
+- **Web Dev:** JavaScript, React, Node.js, SASS, Firebase, Git  
+- **AI (exploring):** ChatGPT, prompt design, conversational UX  
+- **Creative Tech:** Unity (C#), Photoshop, Digital Music Production  
+- **Currently Learning:** Python & Neural Networks  
+- **Certs:** Cisco IT Essentials, Prompt Engineering, Microsoft Powershell  
+- **Soft Skills:** Empathy, clarity, humor under pressure, cross-cultural communication  
 
 ---
 
-### 🔧 Core Skills
-
-- **OS:** Windows, macOS, Linux  
-- **Remote Tools:** TeamViewer  
-- **Tech Support:** 1st-level & backoffice (network/software/mobile)  
-- **AI (learning in progress):** ChatGPT customization, prompt engineering, chatbot creation  
-- **Programming & Web:** JavaScript, React, SASS, Node.js, Firebase  
-- **Currently Exploring:** Python & neural networks  
-- **Certifications:** Cisco IT Essentials, Microsoft Windows 10 & PowerShell  
-- **Soft Skills:** Patience, empathy, clear communication, team collaboration  
-- **Cultural Range:** Worked across Germany, Scotland, and England
-
----
+If you’re looking for someone who speaks both *user* and *developer*, who can translate frustration into function—I’m your guy.
 
 🚀 Thanks for visiting!
 
