@@ -57,7 +57,7 @@ Focus areas:
 - Workflow orchestration with n8n
 - Personal productivity automation
 
-### Sonos Telegram Bot
+### Music System -  Telegram Bot
 
 A personal bot that lets me control my music system through Telegram.
 
