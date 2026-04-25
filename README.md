@@ -4,7 +4,7 @@
 
 ### About Me
 
-I work in **Second-Level Broadband, Cable, Fibre & Mobile Support at Vodafone**, helping customers understand and solve connection, router, bandwidth, availability, and contract-related technical issues.
+I work in **Second-Level Broadband, Cable, Fibre & Mobile Support**, helping customers understand and solve connection, router, bandwidth, availability, and contract-related technical issues.
 
 My background combines customer-facing technical support, troubleshooting, web development, automation, Linux enthusiasm, and practical AI system building.
 
