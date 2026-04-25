@@ -6,7 +6,7 @@
 
 I work in **Second-Level Broadband, Cable, Fibre & Mobile Support**, helping customers understand and solve connection, router, bandwidth, availability, and contract-related technical issues.
 
-My background combines customer-facing technical support, troubleshooting, web development, automation, Linux enthusiasm, and practical AI system building.
+My background combines customer-facing technical support, troubleshooting, web development, automation, Ubuntu/Linux enthusiasm, and practical AI system building.
 
 Over the years, I’ve supported users across Germany, Scotland, and England in environments ranging from medical technology and software support to broadband and mobile services. That experience taught me one important thing:
 
@@ -16,22 +16,15 @@ I like building systems that make life easier, not more complicated. Whether it 
 
 ## What I’m doing now
 
-In my current role, I help customers with topics such as:
+Alongside my current support role, I’m building practical AI and automation systems with tools like **OpenAI, Firebase, Pinecone, n8n, Telegram bots, and OpenClaw**.
 
-- DSL, fibre, cable, and mobile connectivity
-- Router configuration and customer-side setup
-- Bandwidth, availability, and line-performance questions
-- Contract-related technical issues
-- Clear explanations for non-technical users
-- Escalation handling and structured troubleshooting
-
-Alongside that, I’m building practical AI and automation systems.
+I’m especially interested in AI assistants that can interact with real tools, remember useful context, retrieve reliable information, and automate everyday workflows safely.
 
 ## Recent Projects
 
 ### Vega — AI Knowledge Assistant
 
-A Telegram-based assistant that uses Firebase, Pinecone, OpenAI, and n8n to answer from a private knowledge base first, then escalate to web research when needed.
+A Telegram-based AI assistant that uses Firebase, Pinecone, OpenAI, and n8n to answer from a private knowledge base first, then escalate to web research when needed.
 
 Focus areas:
 
@@ -41,6 +34,7 @@ Focus areas:
 - Telegram bot integration
 - Knowledge-base lifecycle handling
 - Context and memory design
+- Safe escalation from private knowledge to public research
 
 ### Lyra — Personal Operations Assistant
 
@@ -56,8 +50,22 @@ Focus areas:
 - OpenAI-powered reasoning
 - Workflow orchestration with n8n
 - Personal productivity automation
+- Safer handling of private information and external actions
 
-### Music System -  Telegram Bot
+### OpenClaw Experiments — Local AI Agent Workflows
+
+I use OpenClaw to explore practical AI agent workflows, local automation, browser interaction, tool use, and safer patterns for autonomous assistants.
+
+Focus areas:
+
+- Autonomous AI agents
+- Local tool orchestration
+- Browser and system automation
+- Agent safety and control boundaries
+- Telegram-connected assistant workflows
+- Practical human-in-the-loop automation
+
+### Music System Telegram Bot
 
 A personal bot that lets me control my music system through Telegram.
 
@@ -93,7 +101,7 @@ Focus areas:
 - SASS
 - Git / GitHub
 
-### AI & Automation
+### AI, Agents & Automation
 
 - OpenAI APIs
 - ChatGPT customization
@@ -106,6 +114,7 @@ Focus areas:
 - Gmail automation
 - Google Calendar automation
 - Sonos automation
+- AI agent workflows
 - Conversational system design
 
 ### Systems & Tools
@@ -117,13 +126,6 @@ Focus areas:
 - Basic networking
 - VPNs
 - Router configuration
-
-### Currently Improving
-
-- AI agent workflows
-- Neural networks and machine learning fundamentals
-- Scalable AI assistant architecture
-- Secure automation patterns
 
 ## Certifications & Courses
 
@@ -138,6 +140,8 @@ Focus areas:
 I like technology that is clear, reliable, and useful.
 
 I care about calm troubleshooting, understandable explanations, clean systems, and AI tools that help people instead of burying them under more complexity.
+
+My current focus is not just “using AI,” but building practical assistants that can connect to real workflows, handle context carefully, and act with the right amount of autonomy.
 
 I speak both “user” and “developer” — and I enjoy translating frustration into function.
 
