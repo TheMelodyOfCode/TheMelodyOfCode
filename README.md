@@ -6,13 +6,15 @@
 
 I work in **Second-Level Broadband, Cable, Fibre & Mobile Support**, helping customers understand and solve connection, router, bandwidth, availability, and contract-related technical issues.
 
-My background combines customer-facing technical support, troubleshooting, web development, automation, Ubuntu/Linux enthusiasm, and practical AI system building.
+My background combines customer-facing technical support, software troubleshooting, web development, automation, Ubuntu/Linux enthusiasm, and practical AI system building.
 
-Over the years, I’ve supported users across Germany, Scotland, and England in environments ranging from medical technology and software support to broadband and mobile services. That experience taught me one important thing:
+Over the years, I’ve supported users across Germany, Scotland, and England in environments ranging from broadband and mobile services to medical technology, speech recognition software, document/PDF software, and internal support teams.
+
+That experience taught me one important thing:
 
 Technology is only useful when people can actually understand and trust it.
 
-I like building systems that make life easier, not more complicated. Whether it is helping someone understand why their connection cannot deliver the expected bandwidth, explaining DSL, fibre, cable, or mobile infrastructure in plain language, or building AI workflows that retrieve the right information instead of hallucinating creatively into the void — I enjoy turning confusion into something usable.
+I like building systems that make life easier, not more complicated. Whether it is explaining why a connection cannot deliver the expected bandwidth, helping users troubleshoot software, or building AI workflows that retrieve the right information instead of hallucinating creatively into the void — I enjoy turning confusion into something usable.
 
 ## What I’m doing now
 
@@ -67,7 +69,7 @@ Focus areas:
 
 ### Music System Telegram Bot
 
-A personal bot that lets me control my music system through Telegram.
+A personal bot that lets me control my Music system through Telegram.
 
 Focus areas:
 
@@ -77,7 +79,7 @@ Focus areas:
 - Local system integration
 - Practical everyday AI tooling
 
-## Tech Stack
+## Technical Background
 
 ### Broadband, Mobile & Customer Support
 
@@ -87,8 +89,16 @@ Focus areas:
 - DSL, fibre, cable, and mobile infrastructure
 - Contract-related technical issue handling
 - Escalation handling
-- Multilingual support: English / German
 - Clear communication with non-technical users
+
+### Software & Product Support
+
+- Technical support for speech recognition, PDF, and document workflow software
+- Experience with legacy enterprise software environments, including Nuance document and voice solutions
+- Troubleshooting installation, licensing, configuration, and user workflow issues
+- Medical product hotline support for diabetes technology
+- CRM system usage and key-user experience
+- Technical issue documentation and structured case handling
 
 ### Web & Backend
 
@@ -98,8 +108,13 @@ Focus areas:
 - Firebase
 - Firestore
 - Cloud Functions
+- HTML5
+- CSS3
 - SASS
 - Git / GitHub
+- MySQL basics
+- PHP basics
+- Responsive and mobile-first web design
 
 ### AI, Agents & Automation
 
@@ -129,11 +144,13 @@ Focus areas:
 
 ## Certifications & Courses
 
-- Cisco IT Essentials
-- Microsoft PowerShell
-- Prompt Engineering
 - LLMs & APIs: OpenAI, Gemini, Claude, Llama 3, ChatGPT
 - OpenClaw: Secure use of autonomous AI agents
+- Geprüfter Web-Designer
+- Media / Scripting Languages Weiterbildung
+- JavaScript, Node.js, React, Firebase, PHP, MySQL, SASS, Git/GitHub
+- Microsoft PowerShell
+- Cisco IT Essentials
 
 ## What I care about
 
